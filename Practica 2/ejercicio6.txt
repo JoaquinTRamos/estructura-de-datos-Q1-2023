@@ -1,0 +1,2 @@
+caso List te dice que es mutable,
+en otros casos ni idea!!

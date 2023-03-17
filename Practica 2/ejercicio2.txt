@@ -1,0 +1,1 @@
+Numero complejo es un numero compuesto por 2 valores, uno real y uno imaginario. El formato es el siguiente: 4 + 2i
