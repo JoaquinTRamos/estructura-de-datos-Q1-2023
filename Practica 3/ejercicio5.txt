@@ -1,0 +1,4 @@
+Ejemplo 1 -> Va a printear 450 y dsps 450 + 700 (1150)
+
+Ejemplo 2 -> Va a printear 450, 900 y dsps 1350, esto es porque es un atributo estatico de toda la clase cargaTotal y no de instancia
+
